@@ -1,5 +1,5 @@
 # PHP--Online-Banking-Application
-# PHP--Online-Banking-Application
+
 To run project, install "bank_account.sql" into XAMPP database, then add rest files to "htdocs" folder. </br>
 • The system registers new users, then user can access the app </br>
 • next, the user must login, with the credential provided at registration</br>
